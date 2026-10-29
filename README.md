@@ -5,7 +5,7 @@
 
 **Software architect, _human in the loop_.**
 
-Fifteen-plus years **building systems** that solve real-world problems.<br>
+Nearly two decades **building systems** that solve real-world problems.<br>
 Today I **design collaboration frameworks** between humans and AI agents.
 
 Currently at&thinsp; <a href="https://nfq.es/"><img src="img/nfq-n.png" height="12" alt=""></a>&nbsp;<a href="https://nfq.es/">Nfq</a>, leading a fleet of agents that migrate legacy systems at scale.
