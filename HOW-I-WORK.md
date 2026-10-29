@@ -1,6 +1,6 @@
 # How I work today
 
-I'm a product-minded software engineer and architect. I don't write the code anymore: AI agents do. My job is to design the ecosystem where humans and agents work together, and to stay in the loop for every decision that matters.
+I'm a product-minded software engineer and architect with nearly two decades of experience. I don't write the code anymore: AI agents do. My job is to design the ecosystem where humans and agents work together, and to stay in the loop for every decision that matters.
 
 ## How I got here
 
