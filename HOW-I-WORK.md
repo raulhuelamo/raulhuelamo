@@ -56,6 +56,6 @@ I'm a product-minded software engineer and architect with nearly two decades of 
 
 ## Right now
 
-- **[Nfq](https://nfq.es/)** — leading a fleet of agents that migrate legacy systems at scale, and helping the company and its people make the shift to AI-native work.
+- **[Nfq](https://nfq.es/)** — leading a fleet of agents that migrate legacy systems at scale, and helping the company and its people make the shift to AI-native engineering.
 - **[duality.works](https://duality.works)** — an anti-consultancy product studio. Slide decks don't compile.
 - **[Bichos.](https://bichos.xyz)** — custom work-chat emojis turned into pixel-perfect 3D desk figures, modelled entirely in code.
